@@ -2,6 +2,9 @@
 
 A simple AI-powered movie recommendation web app built with Python, Pandas, scikit-learn, and Streamlit.
 
+# Demo 
+https://ai-movie-recommender-nxte4xm2x5qw7uwfjkoedr.streamlit.app/
+
 # 🚀 Features
 - Recommends 5 similar movies based on the user's input  
 - Uses CountVectorizer + Cosine Similarity for content-based filtering  
@@ -15,3 +18,4 @@ Python, Pandas, scikit-learn, Streamlit
 
 pip install -r requirements.txt
 streamlit run ai_movie_recommender_app.py
+
